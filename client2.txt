@@ -1,0 +1,2 @@
+portnumber:8080 domain:http://localhost.com
+portnumber:8090 domain:http://localhost.com
